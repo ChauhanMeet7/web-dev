@@ -1,2 +1,2 @@
 # web-dev
-This is apna college practice repo
+This is apna college practice repo.
